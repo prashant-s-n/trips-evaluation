@@ -27,6 +27,7 @@ As the company is engaged in PAN India operations, it is obvious that it would b
 - key performance indicators
 
 ### Trip operations
+![Trip operations](./scopes/images/trip-management.png)
 The gist of the experiment revolves around how the company performs the operation and what best could we derive from it. It is thus essential to maintain the following aspects of the operations
 - list of locations (hubs and merchant locations)
 - trips details activity
