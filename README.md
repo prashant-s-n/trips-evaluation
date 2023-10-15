@@ -11,6 +11,7 @@ of this logistics firm.
 ## Parts of operations
 
 ### Fleet Management
+![Fleet Management](./scopes/images/fleet-management.png)
 The company has a couple of hundred of vehicles of many sizes to deal with different types of loads. These vehicles
 may be owned by the company itself or is leased from the trusted partners during the times of operations. Fleet Management is responsible for the following things.
 
