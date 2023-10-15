@@ -15,11 +15,12 @@ of this logistics firm.
 The company has a couple of hundred of vehicles of many sizes to deal with different types of loads. These vehicles
 may be owned by the company itself or is leased from the trusted partners during the times of operations. Fleet Management is responsible for the following things.
 
-- meeping a database for the vehicles which are used during the operations.
+- keeping a database for the vehicles which are used during the operations.
 - storing official documentation of the vehicle including licenses and insurances.
 - keeping a track of vehicle's milestone data and activities.
 
 ### Personnel Management
+![Personnel Management](./scopes/images/personnel-management.png)
 As the company is engaged in PAN India operations, it is obvious that it would be having a great number of human resources at every level. It is also important to measure different factors related to operation personnel, since they are the one's who are driving the company operationally. This in return should push the company to pursue
 - maintaining records of the employees (personal and employment details)
 - attendance records (driving hours, break times, leaves etc)
