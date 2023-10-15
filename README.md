@@ -23,3 +23,12 @@ As the company is engaged in PAN India operations, it is obvious that it would b
 - maintaining records of the employees (personal and employment details)
 - attendance records (driving hours, break times, leaves etc)
 - key performance indicators
+
+### Trip operations
+The gist of the experiment revolves around how the company performs the operation and what best could we derive from it. It is thus essential to maintain the following aspects of the operations
+- list of locations (hubs and merchant locations)
+- trips details activity
+- trips GPS data
+- cost tracker
+- safety compliances
+- damages and losses occured during the trip
